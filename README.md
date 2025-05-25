@@ -2,9 +2,9 @@
 Fork this repository and build nFactorial Ai Cup 2025 projects 
 
 ## < Your Name >
-
+Ulan Orazbek
 ## < Your App's Name >
-
+https://github.com/qulanoraz/InterviewSim/tree/main
 ## < Your App's description, technical considerations, etc. >
 
 
